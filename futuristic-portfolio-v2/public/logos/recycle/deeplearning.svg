@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 220 60" width="220" height="60">
+  <!-- Brain/wave icon -->
+  <circle cx="30" cy="30" r="26" fill="none" stroke="#E6454A" stroke-width="4"/>
+  <path d="M14 30 Q20 18 30 30 Q40 42 46 30" fill="none" stroke="#E6454A" stroke-width="3" stroke-linecap="round"/>
+  <!-- Text -->
+  <text x="64" y="28" font-family="Arial, sans-serif" font-size="16" font-weight="bold" fill="#E6454A">DeepLearning</text>
+  <text x="64" y="46" font-family="Arial, sans-serif" font-size="16" font-weight="bold" fill="#333333">.AI</text>
+</svg>

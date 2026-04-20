@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 160 60" width="160" height="60">
+  <!-- STEP stylized stair steps -->
+  <rect x="0" y="40" width="15" height="15" fill="#1A56DB"/>
+  <rect x="17" y="28" width="15" height="27" fill="#1A56DB"/>
+  <rect x="34" y="16" width="15" height="39" fill="#1A56DB"/>
+  <!-- STEP text -->
+  <text x="60" y="42" font-family="Arial, sans-serif" font-size="34" font-weight="bold" fill="#1A56DB">STEP</text>
+</svg>
