@@ -1,0 +1,141 @@
+{
+  "%23tanstack-start-plugin-adapters": {
+    "file": "assets/__23tanstack-start-plugin-adapters-Cwee5PKy.js",
+    "name": "__23tanstack-start-plugin-adapters",
+    "src": "%23tanstack-start-plugin-adapters",
+    "isDynamicEntry": true
+  },
+  "C:/Users/User/Desktop/Portfolio/Lovable/Portfolio/futuristic-portfolio-v2/src/styles.css": {
+    "file": "assets/styles-BIw_5iSI.css",
+    "src": "C:/Users/User/Desktop/Portfolio/Lovable/Portfolio/futuristic-portfolio-v2/src/styles.css"
+  },
+  "_worker-entry-yxWPpO1s.js": {
+    "file": "assets/worker-entry-yxWPpO1s.js",
+    "name": "worker-entry",
+    "dynamicImports": [
+      "tanstack-start-manifest:v",
+      "src/router.tsx",
+      "node_modules/@tanstack/react-start/dist/plugin/default-entry/start.ts",
+      "%23tanstack-start-plugin-adapters"
+    ]
+  },
+  "node_modules/@tanstack/react-start/dist/plugin/default-entry/start.ts": {
+    "file": "assets/start-HYkvq4Ni.js",
+    "name": "start",
+    "src": "node_modules/@tanstack/react-start/dist/plugin/default-entry/start.ts",
+    "isDynamicEntry": true
+  },
+  "src/assets/award-1st.jpg": {
+    "file": "assets/award-1st-D5U8AzLf.jpg",
+    "src": "src/assets/award-1st.jpg"
+  },
+  "src/assets/award-hackathon.jpg": {
+    "file": "assets/proj-muthmirah-IhxtSczb.jpg",
+    "src": "src/assets/award-hackathon.jpg"
+  },
+  "src/assets/award-top11.jpg": {
+    "file": "assets/award-1st-D5U8AzLf.jpg",
+    "src": "src/assets/award-1st.jpg"
+  },
+  "src/assets/cert-generic.jpg": {
+    "file": "assets/cert-generic-_RjhU1Vz.jpg",
+    "src": "src/assets/cert-generic.jpg"
+  },
+  "src/assets/exp-kaust.jpg": {
+    "file": "assets/exp-kaust-DLEVVvU2.jpg",
+    "src": "src/assets/exp-kaust.jpg"
+  },
+  "src/assets/exp-naseej.jpg": {
+    "file": "assets/exp-naseej-iw3FlkZQ.jpg",
+    "src": "src/assets/exp-naseej.jpg"
+  },
+  "src/assets/exp-stc.jpg": {
+    "file": "assets/exp-stc--29Xaiqk.jpg",
+    "src": "src/assets/exp-stc.jpg"
+  },
+  "src/assets/profile.jpg": {
+    "file": "assets/profile-D4RrViwT.jpg",
+    "src": "src/assets/profile.jpg"
+  },
+  "src/assets/proj-bees.jpg": {
+    "file": "assets/proj-bees-BmQcWefz.jpg",
+    "src": "src/assets/proj-bees.jpg"
+  },
+  "src/assets/proj-edutwin.jpg": {
+    "file": "assets/proj-edutwin-DEnSqnEu.jpg",
+    "src": "src/assets/proj-edutwin.jpg"
+  },
+  "src/assets/proj-maher.jpg": {
+    "file": "assets/proj-maher-DDh7iy2d.jpg",
+    "src": "src/assets/proj-maher.jpg"
+  },
+  "src/assets/proj-muthmirah.jpg": {
+    "file": "assets/proj-muthmirah-IhxtSczb.jpg",
+    "src": "src/assets/award-hackathon.jpg"
+  },
+  "src/assets/proj-seen.jpg": {
+    "file": "assets/proj-seen-CgpYC_59.jpg",
+    "src": "src/assets/proj-seen.jpg"
+  },
+  "src/assets/proj-tomato.jpg": {
+    "file": "assets/proj-tomato-DiN-jwnF.jpg",
+    "src": "src/assets/proj-tomato.jpg"
+  },
+  "src/assets/proj-yolo.jpg": {
+    "file": "assets/proj-yolo-B7HtSeC3.jpg",
+    "src": "src/assets/proj-yolo.jpg"
+  },
+  "src/router.tsx": {
+    "file": "assets/router-B7mSWIlB.js",
+    "name": "router",
+    "src": "src/router.tsx",
+    "isDynamicEntry": true,
+    "imports": [
+      "_worker-entry-yxWPpO1s.js"
+    ],
+    "dynamicImports": [
+      "src/routes/index.tsx?tsr-split=component"
+    ],
+    "assets": [
+      "assets/styles-BIw_5iSI.css"
+    ]
+  },
+  "src/routes/index.tsx?tsr-split=component": {
+    "file": "assets/index-C6pv8yFB.js",
+    "name": "index",
+    "src": "src/routes/index.tsx?tsr-split=component",
+    "isDynamicEntry": true,
+    "imports": [
+      "_worker-entry-yxWPpO1s.js"
+    ],
+    "assets": [
+      "assets/profile-D4RrViwT.jpg",
+      "assets/exp-stc--29Xaiqk.jpg",
+      "assets/exp-kaust-DLEVVvU2.jpg",
+      "assets/exp-naseej-iw3FlkZQ.jpg",
+      "assets/proj-seen-CgpYC_59.jpg",
+      "assets/proj-maher-DDh7iy2d.jpg",
+      "assets/proj-yolo-B7HtSeC3.jpg",
+      "assets/proj-edutwin-DEnSqnEu.jpg",
+      "assets/proj-tomato-DiN-jwnF.jpg",
+      "assets/proj-bees-BmQcWefz.jpg",
+      "assets/proj-muthmirah-IhxtSczb.jpg",
+      "assets/award-1st-D5U8AzLf.jpg"
+    ]
+  },
+  "tanstack-start-manifest:v": {
+    "file": "assets/_tanstack-start-manifest_v-BbfsRWLW.js",
+    "name": "_tanstack-start-manifest_v",
+    "src": "tanstack-start-manifest:v",
+    "isDynamicEntry": true
+  },
+  "virtual:cloudflare/worker-entry": {
+    "file": "index.js",
+    "name": "index",
+    "src": "virtual:cloudflare/worker-entry",
+    "isEntry": true,
+    "imports": [
+      "_worker-entry-yxWPpO1s.js"
+    ]
+  }
+}

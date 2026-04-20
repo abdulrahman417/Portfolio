@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 220 60" width="220" height="60">
+  <!-- IBM blue square icon -->
+  <rect x="0" y="5" width="48" height="48" rx="4" fill="#1F70C1"/>
+  <text x="24" y="37" text-anchor="middle" font-family="Arial, sans-serif" font-size="20" font-weight="bold" fill="white">IBM</text>
+  <!-- SkillsBuild text -->
+  <text x="58" y="30" font-family="Arial, sans-serif" font-size="18" font-weight="bold" fill="#1F70C1">Skills</text>
+  <text x="58" y="50" font-family="Arial, sans-serif" font-size="18" font-weight="bold" fill="#333333">Build</text>
+</svg>

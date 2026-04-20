@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 200 60" width="200" height="60">
+  <!-- Stanford tree simplified -->
+  <polygon points="30,5 20,25 25,25 15,42 38,42 38,25 43,25" fill="#8C1515"/>
+  <rect x="27" y="42" width="5" height="10" fill="#8C1515"/>
+  <!-- Stanford text -->
+  <text x="55" y="28" font-family="Georgia, serif" font-size="18" font-weight="bold" fill="#8C1515">STANFORD</text>
+  <text x="55" y="48" font-family="Georgia, serif" font-size="13" fill="#555555">UNIVERSITY</text>
+</svg>
