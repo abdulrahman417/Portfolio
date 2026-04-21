@@ -10,7 +10,7 @@ export function Projects() {
 
   return (
     <Section id="projects" title={tt.sections.projects} eyebrow="03">
-      <div className="grid gap-6 sm:grid-cols-2 lg:grid-cols-3">
+      <div className="grid gap-4 grid-cols-2 lg:grid-cols-3">
         {projects.map((p, i) => (
           <motion.a
             key={i}

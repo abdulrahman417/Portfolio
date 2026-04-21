@@ -40,7 +40,7 @@ export function Skills() {
 
   return (
     <Section id="skills" title={tt.sections.skills} eyebrow="05">
-      <div className="grid gap-6 md:grid-cols-2">
+      <div className="grid gap-4 sm:grid-cols-2">
         {groups.map((g, gi) => (
           <motion.div
             key={gi}

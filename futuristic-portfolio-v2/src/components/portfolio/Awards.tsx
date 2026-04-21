@@ -9,7 +9,7 @@ export function Awards() {
   const tt = t[lang];
   return (
     <Section id="awards" title={tt.sections.awards} eyebrow="06">
-      <div className="grid gap-6 md:grid-cols-3">
+      <div className="grid gap-4 grid-cols-2 md:grid-cols-3">
         {awards.map((a, i) => (
           <motion.a
             key={i}

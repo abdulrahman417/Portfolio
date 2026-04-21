@@ -13,7 +13,7 @@ export function Languages() {
   ];
   return (
     <Section id="langs" title={tt.sections.langs} eyebrow="07">
-      <div className="mx-auto grid max-w-3xl gap-5 sm:grid-cols-2">
+      <div className="mx-auto grid max-w-3xl gap-4 grid-cols-2">
         {items.map((l, i) => (
           <motion.div
             key={i}
