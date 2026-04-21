@@ -130,7 +130,7 @@ export const projects = [
 // Any format is accepted: avif · webp · png · jpg · jpeg · svg
 // ─────────────────────────────────────────────────────────────────────────────
 export const certificates = [
-  { en: "Google Data Analytics Professional Certificate",              ar: "شهادة تحليل البيانات الاحترافية من Google",         issuer: "Google",                    logo: "/logos/google.webp",          link: "https://drive.google.com/file/d/1YP27g3bX4hoHkR2eqVSPqFtFEgkoaUGP/view?usp=sharing" },
+  { en: "Google Data Analytics Professional Certificate",              ar: "شهادة تحليل البيانات الاحترافية من قوقل",         issuer: "Google",                    logo: "/logos/google.webp",          link: "https://drive.google.com/file/d/1YP27g3bX4hoHkR2eqVSPqFtFEgkoaUGP/view?usp=sharing" },
   { en: "AI Concepts and Advanced Applications",                       ar: "مفاهيم الذكاء الاصطناعي والتطبيقات المتقدمة",       issuer: "SDAIA",                     logo: "/logos/sdaia.jpg",            link: "https://drive.google.com/file/d/117T4kkarESmktjqa2srJNliDWmj8IGMY/view?usp=sharing" },
   { en: "Unsupervised Learning, Recommenders, Reinforcement Learning", ar: "التعلم غير الموجه والأنظمة الموصية والتعلم المعزز", issuer: "DeepLearning.AI & Stanford", logo: "/logos/deeplearning.png",     link: "https://drive.google.com/file/d/1GiSwSpxbTEyJXM0nACsqhSEhYE3c1ggT/view?usp=sharing" },
   { en: "Fundamentals of Artificial Intelligence",                     ar: "أساسيات الذكاء الاصطناعي",                          issuer: "SDAIA",                     logo: "/logos/sdaia.jpg",            link: "https://drive.google.com/file/d/1-tKaa5jsWMyDe9osTl1j7AkA0OPl8srH/view?usp=sharing" },
