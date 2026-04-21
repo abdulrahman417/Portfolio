@@ -6,11 +6,11 @@
     "isDynamicEntry": true
   },
   "C:/Users/User/Desktop/Portfolio/Lovable/Portfolio/futuristic-portfolio-v2/src/styles.css": {
-    "file": "assets/styles-BIw_5iSI.css",
+    "file": "assets/styles-ClOcZ9wK.css",
     "src": "C:/Users/User/Desktop/Portfolio/Lovable/Portfolio/futuristic-portfolio-v2/src/styles.css"
   },
-  "_worker-entry-yxWPpO1s.js": {
-    "file": "assets/worker-entry-yxWPpO1s.js",
+  "_worker-entry-BFQDEO2Y.js": {
+    "file": "assets/worker-entry-BFQDEO2Y.js",
     "name": "worker-entry",
     "dynamicImports": [
       "tanstack-start-manifest:v",
@@ -86,27 +86,27 @@
     "src": "src/assets/proj-yolo.jpg"
   },
   "src/router.tsx": {
-    "file": "assets/router-B7mSWIlB.js",
+    "file": "assets/router-CJa4_PH4.js",
     "name": "router",
     "src": "src/router.tsx",
     "isDynamicEntry": true,
     "imports": [
-      "_worker-entry-yxWPpO1s.js"
+      "_worker-entry-BFQDEO2Y.js"
     ],
     "dynamicImports": [
       "src/routes/index.tsx?tsr-split=component"
     ],
     "assets": [
-      "assets/styles-BIw_5iSI.css"
+      "assets/styles-ClOcZ9wK.css"
     ]
   },
   "src/routes/index.tsx?tsr-split=component": {
-    "file": "assets/index-C6pv8yFB.js",
+    "file": "assets/index-cTYFOoES.js",
     "name": "index",
     "src": "src/routes/index.tsx?tsr-split=component",
     "isDynamicEntry": true,
     "imports": [
-      "_worker-entry-yxWPpO1s.js"
+      "_worker-entry-BFQDEO2Y.js"
     ],
     "assets": [
       "assets/profile-D4RrViwT.jpg",
@@ -124,7 +124,7 @@
     ]
   },
   "tanstack-start-manifest:v": {
-    "file": "assets/_tanstack-start-manifest_v-BbfsRWLW.js",
+    "file": "assets/_tanstack-start-manifest_v-BWCXTw1g.js",
     "name": "_tanstack-start-manifest_v",
     "src": "tanstack-start-manifest:v",
     "isDynamicEntry": true
@@ -135,7 +135,7 @@
     "src": "virtual:cloudflare/worker-entry",
     "isEntry": true,
     "imports": [
-      "_worker-entry-yxWPpO1s.js"
+      "_worker-entry-BFQDEO2Y.js"
     ]
   }
 }

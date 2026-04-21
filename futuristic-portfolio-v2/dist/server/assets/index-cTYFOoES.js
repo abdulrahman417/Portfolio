@@ -1,4 +1,4 @@
-import { r as reactExports, T as jsxRuntimeExports, S as React } from "./worker-entry-yxWPpO1s.js";
+import { r as reactExports, T as jsxRuntimeExports, S as React } from "./worker-entry-BFQDEO2Y.js";
 import "node:events";
 import "node:async_hooks";
 import "node:stream/web";
@@ -8609,7 +8609,7 @@ function Experience() {
 function Projects() {
   const { lang } = usePortfolio();
   const tt = t[lang];
-  return /* @__PURE__ */ jsxRuntimeExports.jsx(Section, { id: "projects", title: tt.sections.projects, eyebrow: "03", children: /* @__PURE__ */ jsxRuntimeExports.jsx("div", { className: "grid gap-6 sm:grid-cols-2 lg:grid-cols-3", children: projects.map((p, i) => /* @__PURE__ */ jsxRuntimeExports.jsxs(
+  return /* @__PURE__ */ jsxRuntimeExports.jsx(Section, { id: "projects", title: tt.sections.projects, eyebrow: "03", children: /* @__PURE__ */ jsxRuntimeExports.jsx("div", { className: "grid gap-4 grid-cols-2 lg:grid-cols-3", children: projects.map((p, i) => /* @__PURE__ */ jsxRuntimeExports.jsxs(
     motion.a,
     {
       href: p.link,
@@ -8643,7 +8643,7 @@ function Projects() {
 function Certificates() {
   const { lang } = usePortfolio();
   const tt = t[lang];
-  return /* @__PURE__ */ jsxRuntimeExports.jsx(Section, { id: "certs", title: tt.sections.certs, eyebrow: "04", children: /* @__PURE__ */ jsxRuntimeExports.jsx("div", { className: "grid gap-5 sm:grid-cols-2 lg:grid-cols-3 xl:grid-cols-4", children: certificates.map((c, i) => /* @__PURE__ */ jsxRuntimeExports.jsxs(
+  return /* @__PURE__ */ jsxRuntimeExports.jsx(Section, { id: "certs", title: tt.sections.certs, eyebrow: "04", children: /* @__PURE__ */ jsxRuntimeExports.jsx("div", { className: "grid gap-4 grid-cols-2 lg:grid-cols-3 xl:grid-cols-4", children: certificates.map((c, i) => /* @__PURE__ */ jsxRuntimeExports.jsxs(
     motion.a,
     {
       href: c.link,
@@ -8871,7 +8871,7 @@ function Skills() {
   const { lang } = usePortfolio();
   const tt = t[lang];
   const groups = skillGroups(lang);
-  return /* @__PURE__ */ jsxRuntimeExports.jsx(Section, { id: "skills", title: tt.sections.skills, eyebrow: "05", children: /* @__PURE__ */ jsxRuntimeExports.jsx("div", { className: "grid gap-6 md:grid-cols-2", children: groups.map((g, gi) => /* @__PURE__ */ jsxRuntimeExports.jsxs(
+  return /* @__PURE__ */ jsxRuntimeExports.jsx(Section, { id: "skills", title: tt.sections.skills, eyebrow: "05", children: /* @__PURE__ */ jsxRuntimeExports.jsx("div", { className: "grid gap-4 sm:grid-cols-2", children: groups.map((g, gi) => /* @__PURE__ */ jsxRuntimeExports.jsxs(
     motion.div,
     {
       initial: { opacity: 0, y: 20 },
@@ -8915,7 +8915,7 @@ function Skills() {
 function Awards() {
   const { lang } = usePortfolio();
   const tt = t[lang];
-  return /* @__PURE__ */ jsxRuntimeExports.jsx(Section, { id: "awards", title: tt.sections.awards, eyebrow: "06", children: /* @__PURE__ */ jsxRuntimeExports.jsx("div", { className: "grid gap-6 md:grid-cols-3", children: awards.map((a, i) => /* @__PURE__ */ jsxRuntimeExports.jsxs(
+  return /* @__PURE__ */ jsxRuntimeExports.jsx(Section, { id: "awards", title: tt.sections.awards, eyebrow: "06", children: /* @__PURE__ */ jsxRuntimeExports.jsx("div", { className: "grid gap-4 grid-cols-2 md:grid-cols-3", children: awards.map((a, i) => /* @__PURE__ */ jsxRuntimeExports.jsxs(
     motion.a,
     {
       href: a.link,
@@ -8955,7 +8955,7 @@ function Languages() {
     { name: tt.languages.arabic, level: 100, label: tt.languages.native, flag: "🇸🇦" },
     { name: tt.languages.english, level: 90, label: tt.languages.fluent, flag: "🇺🇸" }
   ];
-  return /* @__PURE__ */ jsxRuntimeExports.jsx(Section, { id: "langs", title: tt.sections.langs, eyebrow: "07", children: /* @__PURE__ */ jsxRuntimeExports.jsx("div", { className: "mx-auto grid max-w-3xl gap-5 sm:grid-cols-2", children: items.map((l, i) => /* @__PURE__ */ jsxRuntimeExports.jsxs(
+  return /* @__PURE__ */ jsxRuntimeExports.jsx(Section, { id: "langs", title: tt.sections.langs, eyebrow: "07", children: /* @__PURE__ */ jsxRuntimeExports.jsx("div", { className: "mx-auto grid max-w-3xl gap-4 grid-cols-2", children: items.map((l, i) => /* @__PURE__ */ jsxRuntimeExports.jsxs(
     motion.div,
     {
       initial: { opacity: 0, y: 20 },
