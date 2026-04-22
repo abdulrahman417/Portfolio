@@ -36,7 +36,7 @@ export function Languages() {
               <LangIcon className="h-5 w-5 text-primary" />
             </div>
             <div className="mb-1 flex justify-between text-xs text-muted-foreground">
-              <span>{l.label}</span>
+              {/* <span>{l.label}</span>
               <span className="tabular-nums">{l.level}%</span>
             </div>
             <div className="h-2 overflow-hidden rounded-full bg-muted">
@@ -53,4 +53,4 @@ export function Languages() {
       </div>
     </Section>
   );
-}
+} */}
