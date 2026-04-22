@@ -1,16 +1,16 @@
-// import { motion } from "framer-motion";
-// import { Download, Mail, MapPin, Github, Linkedin } from "lucide-react";
-// import { usePortfolio } from "@/lib/portfolio-context";
-// import { t, CV_URL, profile, ASSETS } from "@/lib/i18n";
+import { motion } from "framer-motion";
+import { Download, Mail, MapPin, Github, Linkedin } from "lucide-react";
+import { usePortfolio } from "@/lib/portfolio-context";
+import { t, CV_URL, profile, ASSETS } from "@/lib/i18n";
 
-// export function Hero() {
-//   const { lang } = usePortfolio();
-//   const tt = t[lang];
-//   const name = lang === "ar" ? profile.nameAr : profile.nameEn;
-//   const loc = lang === "ar" ? profile.locationAr : profile.locationEn;
+export function Hero() {
+  const { lang } = usePortfolio();
+  const tt = t[lang];
+  const name = lang === "ar" ? profile.nameAr : profile.nameEn;
+  const loc = lang === "ar" ? profile.locationAr : profile.locationEn;
 
-//   return (
-//     <section id="top" className="relative overflow-hidden pt-28 pb-20 md:pt-36 md:pb-28">
+  return (
+    <section id="top" className="relative overflow-hidden pt-28 pb-20 md:pt-36 md:pb-28">
       <div className="absolute inset-0 grid-bg opacity-50" aria-hidden />
       <div className="absolute -top-40 -right-40 h-96 w-96 rounded-full gradient-hero opacity-20 blur-3xl animate-float" aria-hidden />
       <div className="absolute -bottom-40 -left-40 h-96 w-96 rounded-full gradient-hero opacity-20 blur-3xl animate-float" aria-hidden />
