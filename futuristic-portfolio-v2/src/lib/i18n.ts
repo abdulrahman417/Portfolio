@@ -101,7 +101,7 @@ export const projects = [
     image: projTomato,
     link: "https://drive.google.com/drive/folders/10XA27qs9hPigOsRzUZaQTOIkM4MypG7r?usp=sharing",
     titleEn: "AI Tomato Freshness Detection",
-    titleAr: "نظام التحقق من صلاحية الطماطم بالذكاء الاصطناعي",
+    titleAr: "نظام التحقق من صلاحية الطماطم لنماذج YOLO 8 و YOLO 11 باستخدام الرؤيا الحاسوبية",
     descEn: "I-Powered Tomato Freshness Assessment: YOLOv8 vs. YOLOv11 Performance Enhancement.",
     descAr: "  تقييم نضج الطماطم باستخدام YOLO 8  و  YOLO 11 بعد التحسين .",
   },
