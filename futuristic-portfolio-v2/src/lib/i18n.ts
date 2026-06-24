@@ -145,6 +145,7 @@ export const certificates = [
   { en: "Machine Learning with Python",                                ar: "تعلم الآلة باستخدام بايثون",                        issuer: "IBM",                       logo: "/logos/ibm.jpg",              link: "https://drive.google.com/file/d/1ZiGQyhUACLGDhurl6bxZUtBzPPWW3VQk/view?usp=sharing" },
   { en: "IBM Applied DevOps Engineering",                              ar: " هندسة العمليات والتطوير التطبيقية من آي بي إم ",                             issuer: "IBM",                       logo: "/logos/ibm.jpg",              link: "https://drive.google.com/drive/folders/1NfJH9cKsqFykbA3cXjcXqCrp43hEfk2-?usp=sharing" },
   { en: "REST API Design, Development & Management (C#)",              ar: "تصميم وتطوير وإدارة REST API (C#)",                  issuer: "The Knowledge Academy",     logo: "/logos/the-knowledge-academy.jpg", link: "https://drive.google.com/file/d/1sAyLVzx_qUn1EoYl9L28rVOajX24HbaW/view?usp=sharing" },
+  { en: "#Building .NET Console Applications in C⁠",                    ar: "#بناء تطبيقات .NET Console بلغة C",                  issuer: "The Knowledge Academy",     logo: "/logos/the-knowledge-academy.jpg", link: "https://drive.google.com/file/d/1cU0MF_NPPzbwhNPxbif-0n6URYLrzy-l/view?usp=sharing" },
 ];
 
 export const awards = [
